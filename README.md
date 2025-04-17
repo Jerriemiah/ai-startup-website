@@ -71,3 +71,61 @@ The GitHub repository was created with the following details:
 
 ## Final Notes
 This project was completed as part of a Git workflow simulation. The repository includes all relevant files and commits, along with a collaborative demonstration of Git commands.
+
+
+##
+
+# Tom and Jerry Collaborative Workflow Simulation - Updated Submission which includes Pull request
+
+
+### Pull & Merge request for Tom
+
+The snapshots below serves as evidence, showing the mergin pull requests and confirmation of the merges into the main branch for Tom's pull request
+
+1. 
+
+![Updatedindex_navigation](./updaterepowithindex.png)
+
+2. Switching to Update-Navigation branch on github
+
+![switchnig_Navbranch](./tom_pr2.png)
+
+3. Clicking on "contribute" and then clicking on "Open Pull Request" to pull the request
+
+![open_pullrequet](./tom_pr3.png)
+
+4. Describing the pull request for Tom's update and creating the request. There were no conflicts on with the request. Reviewd and merged the pull request
+
+![creatingpullrequest](./tom_pr4.png)
+
+5. Shows successful merging for Tom's branch with main
+
+![mergerequestsuccess](./tom_pr5.png)
+
+##
+##
+### Pull Request for Jerry
+
+The snapshots below serves as evidence, showing the pull of main branch to update Jerry's Add-contact branch and to perform a pull request on GitHub
+#
+1. Pull command to update Add_contact branch with Main (after Tom's update)
+
+
+![updatebranch](./Pull_latest_main_Jerry1.png)
+
+2. Push command to push updated branch to github 
+
+![push_update_add_contact](./Push_update_Branch_Jerry2.png)
+
+3. Creating Pull Request on GitHub
+
+![pullrequest_Jerry](./Pull_update_Branch_Jerry3.png)
+
+4. Successfully created pull request. No conflicts arose with base branch
+
+![pullrequestcreation](./Pull_update_Branch_Jerry4.png)
+
+5. Pull request and merge was successfull
+
+![successfullpullmerge](./Pull_update_Branch_Jerry5.png)
+
